@@ -48,3 +48,11 @@
 .lightText {
   color: #666;
 }
+
+.imageContainer {
+  height: 300px;
+  width: 100%;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+}
